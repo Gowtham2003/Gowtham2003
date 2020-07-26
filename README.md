@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with My Projects
 - 💬 I'm Not Qualified Enough to Answer Questions
-- 📫 How to reach me: Telegram :@Gowtham2003
+- 📫 How to reach me: [![Dynamic name](https://img.shields.io/badge/gowtham2003-30302f?style=flat&logo=telegram)](https://t.me/Gowtham2003)
+
 <!-- 😄 Pronouns: 
 - ⚡ Fun fact: -->
 
