@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on to complete My 12th Boards
 - 🌱 I’m currently learning Python-Flask
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with My Projects
 - 💬 I'm Not Qualified Enough to Answer Questions
 - 📫 How to reach me: Telegram :@Gowtham2003
-<!- 😄 Pronouns: 
+<!-- 😄 Pronouns: 
 - ⚡ Fun fact: -->
 
 
