@@ -1,5 +1,4 @@
-### Hi there <img src="https://github.com/Gowtham2003/Gowtham2003/blob/master/Assets/Hi.gif" width="29px"> 
-I'm Gowtham
+### Hi there <img src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Hi.gif" width="29px">
 
 - 🔭 I’m currently working on to complete My 12th Boards
 - 🌱 I’m currently learning Python-Flask
@@ -50,6 +49,6 @@ I'm Gowtham
 
 
 
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Gowtham2003%2F" /></p>
 
 
