@@ -48,7 +48,3 @@
 </div>
 
 
-
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Gowtham2003%2F" /></p>
-
-
