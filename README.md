@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with My Projects
 - 💬 I'm Not Qualified Enough to Answer Questions
-- 📫 How to reach me: [![Dynamic name](https://img.shields.io/badge/gowtham2003-30302f?style=flat&logo=telegram)](https://t.me/Gowtham2003)
+
 
 <!-- 😄 Pronouns: 
 - ⚡ Fun fact: -->
@@ -16,3 +16,5 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003&layout=compact&theme=radical)
+
+
