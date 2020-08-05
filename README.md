@@ -45,6 +45,22 @@
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" /></h3>
+<a href="https://www.linkedin.com/in/gowtham2003g/">
+    <img align="left" alt="Gowtham LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/gowtham13082003">
+    <img align="left" alt="Gowtham Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  </a>
+  <a href="https://instagram.com/gowtham2003">
+    <img align="left" alt="Gowtham Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+  <a href="https://telegram.dog/Gowtham2003">
+    <img align="left" alt="Gowtham Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+
+</p>
+</br>
+</br>
 </div>
 
 
