@@ -12,4 +12,4 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
