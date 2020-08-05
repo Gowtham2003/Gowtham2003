@@ -7,7 +7,7 @@
 - 💬 I'm Not Qualified Enough to Answer Questions
 
 
-<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
 ### Known Languages and Tools
 
@@ -44,7 +44,7 @@
 
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" /></h3>
 </div>
 
 
