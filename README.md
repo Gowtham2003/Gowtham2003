@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 
+### Hi there <img src="https://github.com/Gowtham2003/Gowtham2003/blob/master/Assets/Hi.gif" width="29px"> 
 I'm Gowtham
 
 - 🔭 I’m currently working on to complete My 12th Boards
@@ -6,6 +6,9 @@ I'm Gowtham
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with My Projects
 - 💬 I'm Not Qualified Enough to Answer Questions
+
+
+<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/Assets/Developer.gif"/>
 
 ### Known Languages and Tools
 
@@ -27,13 +30,26 @@ I'm Gowtham
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 
 
+<img align="left" alt="SQLite" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sqlite.svg" />
+
 <img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
 
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
+
+<br/><br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003&layout=compact&theme=radical)
+
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+</div>
+
+
+
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 
 
