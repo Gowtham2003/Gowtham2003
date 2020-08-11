@@ -7,9 +7,10 @@
 - 💬 I'm Not Qualified Enough to Answer Questions
 
 
-<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
 ### Known Languages and Tools
+
+<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
 
