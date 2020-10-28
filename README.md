@@ -37,6 +37,10 @@
 
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
 
+<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
+
+<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
+
 <br/><br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
