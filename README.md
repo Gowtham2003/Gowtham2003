@@ -30,6 +30,8 @@
 
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 
+<img align="left" alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
+
 
 <img align="left" alt="SQLite" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sqlite.svg" />
 
