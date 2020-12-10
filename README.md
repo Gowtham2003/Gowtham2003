@@ -49,10 +49,10 @@
 
 <br/><br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003)
 
 
 <div align="center">
