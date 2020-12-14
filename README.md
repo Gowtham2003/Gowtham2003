@@ -12,41 +12,40 @@
 
 <img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
+<img align="left" alt="C" src="https://img.shields.io/badge/-c%20lang-000?&logo=c" />
 
-<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java" />
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
 
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-000?&logo=JavaScript" />
 
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
+<img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-000?&logo=html5" />
 
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
+<img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-000?&logo=css3" />
 
-<img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
+<img align="left" alt="Android" src="https://img.shields.io/badge/-Android-000?&logo=android" />
 
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
+<img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=Flask" />
 
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/-Github-000?&logo=github" />
 
-<img align="left" alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
+<img align="left" alt="Bootstrap"  src="https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap" />
 
 
-<img align="left" alt="SQLite" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sqlite.svg" />
+<img align="left" alt="SQLite" src="https://img.shields.io/badge/-Sqlite-000?&logo=sqlite" />
 
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" />
 
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?&logo=mysql" />
 
-<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-000?&logo=git" />
 
-<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
+<img align="left" alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
 
-<img align="left" alt="Linux" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linux.svg" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" />
 
-<img align="left" alt="Vim" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vim.svg" />
-
+<img align="left" alt="Vim" src="https://img.shields.io/badge/-Vim-000?&logo=Vim" />
 <br/><br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true)
