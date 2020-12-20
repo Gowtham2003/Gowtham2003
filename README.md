@@ -12,17 +12,13 @@
 
 <img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
-<img align="left" alt="C" src="https://img.shields.io/badge/-c%20lang-000?&logo=c" />
+<img align="left" alt="C" src="https://img.shields.io/badge/-C%20lang-000?&logo=c" />
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java" />
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-000?&logo=JavaScript" />
-
-<img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-000?&logo=html5" />
-
-<img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-000?&logo=css3" />
 
 <img align="left" alt="Android" src="https://img.shields.io/badge/-Android-000?&logo=android" />
 
@@ -46,6 +42,7 @@
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" />
 
 <img align="left" alt="Vim" src="https://img.shields.io/badge/-Vim-000?&logo=Vim" />
+
 <br/><br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true)
