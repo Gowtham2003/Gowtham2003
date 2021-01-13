@@ -14,8 +14,6 @@
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 
-<img align="left" alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java" />
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,13 +24,9 @@
 
 <img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=Flask" />
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-<img align="left" alt="SQLite" src="https://img.shields.io/badge/-Sqlite-000?&logo=sqlite" />
 
 ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat-square&logo=sqlite&logoColor=white)
 
