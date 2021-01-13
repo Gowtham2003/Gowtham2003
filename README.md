@@ -12,37 +12,45 @@
 
 <img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
-<img align="left" alt="C" src="https://img.shields.io/badge/-C%20lang-000?&logo=c" />
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java" />
 
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-000?&logo=JavaScript" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img align="left" alt="Android" src="https://img.shields.io/badge/-Android-000?&logo=android" />
+
+![Android](https://img.shields.io/badge/-Android-56d393?style=flat-square&logo=android&logoColor=white)
+
 
 <img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=Flask" />
 
-<img align="left" alt="GitHub" src="https://img.shields.io/badge/-Github-000?&logo=github" />
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<img align="left" alt="Bootstrap"  src="https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap" />
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <img align="left" alt="SQLite" src="https://img.shields.io/badge/-Sqlite-000?&logo=sqlite" />
 
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" />
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat-square&logo=sqlite&logoColor=white)
 
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?&logo=mysql" />
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-000?&logo=git" />
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img align="left" alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" />
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<img align="left" alt="Vim" src="https://img.shields.io/badge/-Vim-000?&logo=Vim" />
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux)
 
+![Vim](https://img.shields.io/badge/-Vim-047c04?style=flat-square&logo=Vim)
+
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 <br/><br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true)
