@@ -12,6 +12,8 @@
 
 <img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
 
+
+![CLang](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
