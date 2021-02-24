@@ -35,7 +35,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003&langs_count=10&layout=compact)
 
 
 <div align="center">
