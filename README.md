@@ -19,16 +19,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-56d393?style=flat-square&logo=android&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux)
 ![Vim](https://img.shields.io/badge/-Vim-047c04?style=flat-square&logo=Vim)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 <br/><br/>
 
