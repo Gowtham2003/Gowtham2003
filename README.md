@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on to complete My 12th Boards
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with My Projects
+- 🤔 I’m looking for New Projects to Help Peoples
 - 💬 I'm Not Qualified Enough to Answer Questions
 
 
