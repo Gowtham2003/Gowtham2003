@@ -23,6 +23,7 @@
 ![Express](https://img.shields.io/badge/Express-black.svg?style=for-the-badge&logo=Express&labelColor=black)
 ![React](https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=React&labelColor=black)
 ![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next.js&labelColor=000000)
+![Svelte](https://img.shields.io/badge/Svelte-black.svg?style=for-the-badge&logo=Svelte&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
 ![SQLite](https://img.shields.io/badge/Sqlite-black.svg?style=for-the-badge&logo=Sqlite&labelColor=black)
@@ -30,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
 ![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
+![Docker](https://img.shields.io/badge/Docker-black.svg?style=for-the-badge&logo=Docker&labelColor=black)
 ![Vim](https://img.shields.io/badge/Vim-black.svg?style=for-the-badge&logo=Vim&labelColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
 <br/><br/>
