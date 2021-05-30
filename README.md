@@ -23,7 +23,7 @@
 ![Express](https://img.shields.io/badge/Express-black.svg?style=for-the-badge&logo=Express&labelColor=black)
 ![Express](https://img.shields.io/badge/GraphQL-black.svg?style=for-the-badge&logo=GraphQL&labelColor=black)
 ![React](https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=React&labelColor=black)
-![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next.js&labelColor=000000)
+![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next-dot-js&labelColor=000000)
 ![Svelte](https://img.shields.io/badge/Svelte-black.svg?style=for-the-badge&logo=Svelte&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
