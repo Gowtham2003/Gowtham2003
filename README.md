@@ -21,6 +21,7 @@
 ![Android](https://img.shields.io/badge/Android-black.svg?style=for-the-badge&logo=Android&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=Flask&labelColor=black)
 ![Express](https://img.shields.io/badge/Express-black.svg?style=for-the-badge&logo=Express&labelColor=black)
+![Express](https://img.shields.io/badge/GraphQL-black.svg?style=for-the-badge&logo=GraphQL&labelColor=black)
 ![React](https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=React&labelColor=black)
 ![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next.js&labelColor=000000)
 ![Svelte](https://img.shields.io/badge/Svelte-black.svg?style=for-the-badge&logo=Svelte&labelColor=black)
