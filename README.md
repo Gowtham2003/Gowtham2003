@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Hi.gif" width="29px">
 
-- 🔭 I’m currently working on to ~~complete My 12th Boards~~ Completed
-- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on to ~~complete My 12th Boards~~ (Completed)
+- 🌱 I’m currently learning Gatsby
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for New Projects Ideas to Help Peoples
 - 💬 Still Not Qualified Enough to Answer Questions
@@ -24,6 +24,7 @@
 ![Express](https://img.shields.io/badge/GraphQL-black.svg?style=for-the-badge&logo=GraphQL&labelColor=black)
 ![React](https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=React&labelColor=black)
 ![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next-dot-js&labelColor=000000)
+![NEXTJS](https://img.shields.io/badge/Gatsby-black.svg?style=for-the-badge&logo=Gatsby&labelColor=000000)
 ![Svelte](https://img.shields.io/badge/Svelte-black.svg?style=for-the-badge&logo=Svelte&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
