@@ -30,6 +30,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte-black.svg?style=for-the-badge&logo=Svelte&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black.svg?style=for-the-badge&logo=Tailwindcss&labelColor=black&logoWidth=20)
 ![SQLite](https://img.shields.io/badge/Sqlite-black.svg?style=for-the-badge&logo=Sqlite&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&labelColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
