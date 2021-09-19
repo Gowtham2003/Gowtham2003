@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-black.svg?style=for-the-badge&logo=Typescript&labelColor=black)
 ![php](https://img.shields.io/badge/PHP-black.svg?style=for-the-badge&logo=php&labelColor=black)
+![lua](https://img.shields.io/badge/Lua-black.svg?style=for-the-badge&logo=lua&labelColor=black)
 ![Android](https://img.shields.io/badge/Android-black.svg?style=for-the-badge&logo=Android&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=Flask&labelColor=black)
 ![Express](https://img.shields.io/badge/Express-black.svg?style=for-the-badge&logo=Express&labelColor=black)
