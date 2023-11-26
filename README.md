@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Hi.gif" width="29px">
 
-- 🔭 I’m currently working on my personal devfolio
-- 🌱 I’m currently learning Nestjs
+- 🔭 I’m currently working on my new saas product (send2m.com)
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for New Projects Ideas to Help Peoples
 - 💬 Still Not Qualified Enough to Answer Questions
